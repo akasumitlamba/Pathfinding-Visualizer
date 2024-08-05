@@ -4,7 +4,6 @@ Welcome to Pathfinding Visualizer! I built this application because I was fascin
 
 ## Meet the Algorithms
 
-
 This application supports the following algorithms: 
 
 **Dijkstra's Algorithm** (weighted): the father of pathfinding algorithms; guarantees the shortest path
