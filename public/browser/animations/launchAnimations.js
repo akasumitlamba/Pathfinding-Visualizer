@@ -170,5 +170,4 @@ function launchAnimations(board, success, type, object, algorithm, heuristic) {
   timeout(0);
 
 };
-
 module.exports = launchAnimations;
